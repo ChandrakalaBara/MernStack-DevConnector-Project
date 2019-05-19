@@ -26,6 +26,7 @@ class Login extends Component {
     };
     console.log(user);
   }
+  
   render() {
     return (
       <div className="login">
